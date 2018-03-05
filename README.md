@@ -2,11 +2,15 @@
 
 Ues Sketch to cut image for iPhone launch image.
 
+## Sketch Preview
 ![sketch](./sketch_capture.png)
 
+## Xcode Launch Image Preview
 
-Product
 ![xcode](./xcode_capture.png)
+
+
+## File Map
 
 | type | file | 
 |------|------|
@@ -21,5 +25,9 @@ Product
 |iPhone Portrait iOS 5,6 (2x) | iPhone Protrait iOS 5-7@2x.jpg|
 |iPhone Portrait iOS 5,6 (Retina 4) | iPhone Protrait iOS 5-7  Retina 4@2x.jpg|
 
+## Useage
 
-NOTICE:  if you don't want to use Portrait for Landscape. Update it yourself.
+Drag image file to Xcode corresponding section.
+
+
+**NOTICE**:  if you don't want to use Portrait for Landscape. Update it yourself.
